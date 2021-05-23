@@ -11,5 +11,5 @@
 ![image](https://user-images.githubusercontent.com/49730521/118373121-c357c180-b5d2-11eb-8365-bed52d78a5e8.png)
 6. [Introduction to Stack](https://github.com/iaman877/Practice_DS_ALGO/blob/master/Java%20Tutorials%20for%20C%2B%2B%20Coders/ArrayList/Stack.java)
 ![image](https://user-images.githubusercontent.com/49730521/119269804-2ec71200-bc17-11eb-8dae-38d2cb31fdb2.png)
-
-
+7. [Introduction to Queue](https://github.com/iaman877/Practice_DS_ALGO/blob/master/Java%20Tutorials%20for%20C%2B%2B%20Coders/ArrayList/queue.java)
+![image](https://user-images.githubusercontent.com/49730521/119270568-edd0fc80-bc1a-11eb-90d4-8250bc9c583a.png)
