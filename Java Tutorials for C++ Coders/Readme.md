@@ -9,4 +9,7 @@
 ![image](https://user-images.githubusercontent.com/49730521/118372664-6f4bdd80-b5d0-11eb-8b9f-5134324f46c5.png)
 5. [How to Create Two Dimensional Jagged array](https://github.com/iaman877/Practice_DS_ALGO/blob/master/Java%20Tutorials%20for%20C%2B%2B%20Coders/Jagged2dArray.java)
 ![image](https://user-images.githubusercontent.com/49730521/118373121-c357c180-b5d2-11eb-8365-bed52d78a5e8.png)
+6. [Introduction to Stack](https://github.com/iaman877/Practice_DS_ALGO/blob/master/Java%20Tutorials%20for%20C%2B%2B%20Coders/ArrayList/Stack.java)
+![image](https://user-images.githubusercontent.com/49730521/119269804-2ec71200-bc17-11eb-8dae-38d2cb31fdb2.png)
+
 
