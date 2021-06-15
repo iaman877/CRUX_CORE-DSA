@@ -5,7 +5,7 @@
 4. You are given a number n2, representing the number of rows of 2nd matrix.
 5. You are given a number m2, representing the number of columns of 2nd matrix.
 6. You are given n2*m2 numbers, representing elements of 2d array a2.
-7. If the two arrays representing two matrices of dimensions n1 * m1 and n2 * m2 can be multiplied, display the contents of prd array as specified in output Format.
+7. If the two arrays representing two matrices of dimensions (n1 * m1 and n2 * m2) can be multiplied, display the contents of prd array as specified in output Format.
 8. If the two arrays can't be multiplied, print "Invalid input".
 */
 import java.io.*;
