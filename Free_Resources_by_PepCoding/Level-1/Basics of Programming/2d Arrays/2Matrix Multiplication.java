@@ -39,6 +39,7 @@ public class Main
     		if(c1 !=  r2)
     		{
     		    System.out.println("Invalid input");
+		    return;
     		}
 		
     		int[][] prd = new int[r1][c2];
