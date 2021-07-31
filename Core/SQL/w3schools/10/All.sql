@@ -42,7 +42,5 @@ SELECT CustomerName,Address,PostalCode AS Pno FROM Customers;
 -- When displaying the Customers table, refer to the table as Consumers instead of Customers.
 SELECT * FROM Customers AS Consumers;
 
-SQL JOIN
-A JOIN clause is used to combine rows from two or more tables, based on a related column between them.
 
 
