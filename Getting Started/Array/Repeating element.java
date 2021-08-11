@@ -33,3 +33,6 @@ public static void Repeating(int a[],int n)
      Repeating(a,size);
  }
 }
+
+
+// not working
