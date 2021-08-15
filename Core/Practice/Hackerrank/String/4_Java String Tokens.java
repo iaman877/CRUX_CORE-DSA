@@ -1,10 +1,13 @@
 /*
 trim()is a built-in function that eliminates leading and trailing spaces. The Unicode value of space character is '\u0020'. 
 The trim() method in java checks this Unicode value before and after the string, if it exists then removes the spaces and returns the omitted string
-Sample Input
+Here + means it will include more alphabet if exist.
+Here ^ means not 
+Means if there is no alphabetical character means if we getting space then split it. 
 
+Sample Input :
 He is a very very good boy, isn't he?
-Sample Output
+Sample Output :
 
 10
 He
