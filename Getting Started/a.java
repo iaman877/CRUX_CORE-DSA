@@ -92,7 +92,7 @@ class Main
 			}
 		}
 	
-		/* Modify the input matrix mat[] using the above constructed row[] and col[] arrays 
+		// Modify the input matrix mat[] using the above constructed row[] and col[] arrays 
 		for (i = 0; i < R; i++)
 		{
 			for (j = 0; j < C; j++)
